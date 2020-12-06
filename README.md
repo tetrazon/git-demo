@@ -1,1 +1,1 @@
-# git-demotest git console and git GUI
+# git-demotest git console and git GUItest git console and git GUI
